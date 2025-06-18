@@ -23,6 +23,19 @@ This project simulates a simple issue management tool for tracking software bugs
 
 ---
 
+
+
+---
+
+## 📸 Test Results Dashboard (UI)
+
+![Streamlit Dashboard Screenshot](screenshot.PNG)
+
+---
+
+
+
+
 ## 📦 Tech Stack
 
 - **Backend**: Python + SQLite
