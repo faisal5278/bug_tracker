@@ -2,7 +2,7 @@
 
 A beginner-friendly bug tracking system built with **Python**, **SQLite**, **Streamlit**, and **Plotly**.  
 
-This project simulates a simple issue management tool for tracking software bugs with real-time filtering, status monitoring, and visual insights — ideal for DevOps or QA-inspired workflows.
+This project simulates a simple issue management tool for tracking software bugs with real-time filtering, status monitoring, and visual insights.
 
 ---
 
