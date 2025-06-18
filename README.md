@@ -21,7 +21,7 @@ This project simulates a simple issue management tool for tracking software bugs
 - 🥧 **Pie Chart**: Open vs Closed bug distribution
 - 📊 **Bar Chart**: Bug count by severity (Low, Medium, High)
 
----
+
 
 
 
