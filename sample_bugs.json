@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Cruise control doesn't deactivate",
+    "description": "Brake pedal does not disable cruise control as expected.",
+    "severity": "High",
+    "status": "Open",
+    "module": "CruiseControl",
+    "created_at": "2025-06-17 09:00:00"
+  },
+  {
+    "title": "Speedometer flickers",
+    "description": "The digital speed display sometimes resets on dashboard.",
+    "severity": "Medium",
+    "status": "Open",
+    "module": "Dashboard",
+    "created_at": "2025-06-17 09:20:00"
+  },
+  {
+    "title": "Brake lights remain on",
+    "description": "After releasing the brake pedal, the brake lights stay active.",
+    "severity": "High",
+    "status": "Closed",
+    "module": "BrakingSystem",
+    "created_at": "2025-06-16 17:45:00"
+  },
+  {
+    "title": "Navigation map freezes",
+    "description": "Map display stops responding after driving for 10 minutes.",
+    "severity": "Low",
+    "status": "Open",
+    "module": "Infotainment",
+    "created_at": "2025-06-16 14:00:00"
+  },
+  {
+    "title": "Lane Assist beep too frequent",
+    "description": "Lane assist warning beeps even when lane change is intended.",
+    "severity": "Medium",
+    "status": "Closed",
+    "module": "ADAS",
+    "created_at": "2025-06-15 11:30:00"
+  }
+]
