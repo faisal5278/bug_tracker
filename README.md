@@ -25,9 +25,7 @@ This project simulates a simple issue management tool for tracking software bugs
 
 
 
----
-
-## 📸 Test Results Dashboard (UI)
+## 📸 Dashboard User-Interface
 
 ![Streamlit Dashboard Screenshot](screenshot.PNG)
 
