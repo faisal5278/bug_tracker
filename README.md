@@ -84,7 +84,7 @@ python insert_data.py
 
 ```
 
-4.Launch the dashboard:
+4. Launch the dashboard:
 
 
 ```bash
