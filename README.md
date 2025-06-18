@@ -104,4 +104,4 @@ streamlit run app.py
 
 - Real-time bug tracking and data filtering
 
-- Visualization for DevOps and QA scenarios"# bug_tracker" 
+- Visualization for DevOps and QA scenarios
